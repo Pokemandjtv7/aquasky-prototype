@@ -1,0 +1,6 @@
+zone,temperature_c,humidity_pct,cloud_cover_pct,wind_kmh,soil_moisture_pct,snowpack_cm
+Zone A – North Ridge Farmland,-1,82,78,14,22,14
+Zone B – Cedar Hollow Forest,12,45,15,40,55,0
+Zone C – Lakeshore Flats,3,68,52,28,38,6
+Zone D – Pinewood Uplands,-4,75,66,22,30,18
+Zone E – South Valley Orchards,8,52,34,36,47,2
